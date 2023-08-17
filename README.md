@@ -1,12 +1,9 @@
-Hello there! 👋 &nbsp;&nbsp; My name is Tetiana Barashkova
-========================================================================================================================================
-
-🌍  I am a Front-End (React) Developer based in Prague, Czech Republic.
-<br/>
+<h1 align="center">Hello there!&nbsp;&nbsp;👋 My name is Tetiana Barashkova</h1>
+<h3 align="center">🌍  I am a Front-End (React) Developer based in Prague, Czech Republic.</h3>
 
 ### Skills
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,styledcomponents" />
   </a>
